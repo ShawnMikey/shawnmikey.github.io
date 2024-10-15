@@ -8,10 +8,9 @@ redirect_from:
 ---
 
 I'm a final year undergraduate student at University of Indonesia.
-
 I have a big interest in machine learning and deep learning especially its application in computer vision
-
 I am currently a Machine Learning (ML) cohort at Bangkit 2024.
+In my spare time I love reading comics and love watching superhero cartoons and movies.
 
 #### Technical Skills: Python, Numpy, Pandas, Matplotlib, Seaborn, OpenCV, Scikit-learn, Tensorflow
 
